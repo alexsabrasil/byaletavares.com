@@ -149,8 +149,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 Para oportunidades em cibersegurança, análise de dados ou consultoria em segurança da informação:
 
 - **Email Seguro**: alexsandra.infosec@proton.me
-- **LinkedIn**: [Alexsandra Tavares](https://linkedin.com/in/aletavaress/)
-- **Localização**: Recife, Pernambuco - Brasil
+- **LinkedIn**: [Alê Tavares](https://linkedin.com/in/aletavaress/)
+- **Localização**: Pernambuco - Brasil
 
 ---
 
